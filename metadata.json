@@ -1,0 +1,7 @@
+{
+  "name": "SurvivalDisc",
+  "description": "The ultimate secure cloud storage for long-term data preservation. High-fidelity interface with end-to-end encryption aesthetics, AI insights, and robust sharing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
